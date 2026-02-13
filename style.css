@@ -168,21 +168,11 @@ body {
  .valentines-day:hover .text {
    transform: translateY(-50px);
  }
-/*
-@media (max-width: 768px) {
-    /* CSS para pantallas pequeñas (tablets/móviles) 
-    body { font-size: 14px; }
+
+@media (max-width: 790px) {
+    .header-principal{
+       display: none;
+    }
 }
 
-.contenedor {
-    width: 100%; /* Ocupa todo el ancho 
-    max-width: 1200px; /* Ancho máximo en pantallas grandes 
-    margin: 0 auto; /* Centrado 
-}
-
- img {
-    max-width: 100%;
-    height: auto;
-}
-*/
 
