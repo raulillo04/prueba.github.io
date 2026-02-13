@@ -17,6 +17,7 @@
    text-align: center;
 }
 #card p {
+   display:flex;
    font-size: 1.5em;
    text-align: justify;
    padding-left: 30px; /* Espacio en blanco a la izquierda */
